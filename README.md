@@ -12,7 +12,7 @@ Currently a B.Tech student at IIIT Sri City.
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
   <li><strong>LinkedIn</strong>: <a href="[https://www.linkedin.com/in/sree-darsan-balaji-762aba323/]" style="color: #2980b9;">@Sree Darsan Balaji</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/Sree-Darsan" style="color: #2980b9;">@abhijit-23blaze</a></li>
+  <li><strong>GitHub</strong>: <a href="https://github.com/Sree-Darsan" style="color: #2980b9;">@Sree-Darsan</a></li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
